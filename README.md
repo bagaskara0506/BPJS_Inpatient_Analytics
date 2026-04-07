@@ -154,4 +154,4 @@ Fokus pada stabilitas jumlah pasien yang dirawat dan implikasinya terhadap statu
 
 ![Dashboard Excutive Summary](dashboard/IMG/Executive%20Summary.jpg)
 
-_Created by [https://www.linkedin.com/in/satria-bagaskara/] | Data Analyst_
+_Created by : [Linkedin | Data Analyst](https://www.linkedin.com/in/satria-bagaskara/)_
