@@ -2,7 +2,7 @@
 
 > Proyek ini adalah sebuah dashboard analitik strategis yang dirancang untuk mengevaluasi efisiensi operasional, keberlanjutan finansial, dan dinamika kepesertaan dari sistem Jaminan Kesehatan Nasional (JKN/BPJS) berdasarkan analisis diagnosis pasien rawat inap tingkat lanjut dari tahun 2014-2018. Proyek ini bertujuan untuk mengungkap potensi "kebocoran" dana asuransi, merumuskan strategi preventif berdasarkan tren penyakit, serta memberikan rekomendasi kebijakan berbasis data (data-driven policy recommendations).
 
-**Full Project Repository :** [View on Github](https://github.com/bagaskara0506/BPJS_Inpatient_Analytics.git)
+**My Article :** [View on Medium](https://medium.com/@satriadevopsindonesia/analysis-of-bpjs-diagnosis-and-its-relationship-with-operational-financial-and-policy-aspects-48103018ac67)
 
 **Analysis data sources :** [Get On BPJS](https://data.bpjs-kesehatan.go.id/bpjs-portal/action/dataset-list.cbi?page=2&filter=&kategori=)
 
@@ -155,5 +155,3 @@ Fokus pada stabilitas jumlah pasien yang dirawat dan implikasinya terhadap statu
 ![Dashboard Excutive Summary](dashboard/IMG/Executive%20Summary.jpg)
 
 _Created by : [Satria Bagaskara | Data Analyst](https://www.linkedin.com/in/satria-bagaskara/)_
-
-_My Article : [Medium | Satria Bagaskara](https://medium.com/@satriadevopsindonesia/analysis-of-bpjs-diagnosis-and-its-relationship-with-operational-financial-and-policy-aspects-48103018ac67)_
