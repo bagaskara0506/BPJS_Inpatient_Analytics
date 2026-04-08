@@ -155,3 +155,5 @@ Fokus pada stabilitas jumlah pasien yang dirawat dan implikasinya terhadap statu
 ![Dashboard Excutive Summary](dashboard/IMG/Executive%20Summary.jpg)
 
 _Created by : [Satria Bagaskara | Data Analyst](https://www.linkedin.com/in/satria-bagaskara/)_
+
+_My Article : [Medium | Satria Bagaskara](https://medium.com/@satriadevopsindonesia/analysis-of-bpjs-diagnosis-and-its-relationship-with-operational-financial-and-policy-aspects-48103018ac67)_
